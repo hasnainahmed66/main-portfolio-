@@ -63,7 +63,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-1">Email</h4>
-                    <p className="text-gray-900 dark:text-white font-semibold">contact@hasnain.dev</p>
+                    <p className="text-gray-900 dark:text-white font-semibold">hasnainsamoo02@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-6 group">
@@ -71,8 +71,8 @@ const Contact: React.FC = () => {
                     <MapPin size={24} strokeWidth={1.5} />
                   </div>
                   <div>
-                    <h4 className="text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-1">Office</h4>
-                    <p className="text-gray-900 dark:text-white font-semibold">Remote • GMT+5 (PK)</p>
+                    <h4 className="text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-1">Location</h4>
+                    <p className="text-gray-900 dark:text-white font-semibold">Pakistan | karachi</p>
                   </div>
                 </div>
               </div>

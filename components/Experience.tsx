@@ -85,7 +85,7 @@ const Experience: React.FC = () => {
         <p className="text-gray-400 dark:text-gray-600 text-sm font-medium">
           Interested in working together?
           <a 
-            href="https://www.linkedin.com/in/hasnain-ali/" 
+            href="https://www.linkedin.com/in/hasnain-developer/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="ml-2 text-brand hover:underline font-bold transition-all"

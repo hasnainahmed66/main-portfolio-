@@ -46,7 +46,7 @@ const IdeaCTA: React.FC = () => {
               </p>
 
               <p className="text-gray-600 dark:text-gray-400 max-w-xl mb-12 text-lg md:text-xl font-medium leading-relaxed">
-                 From napkin sketches to enterprise-ready applications. I specialize in building digital products that people actually love using.
+                 From ideas to production-ready applications — I build fast, intuitive digital products that users love
               </p>
 
               <Link to="/contact">
